@@ -1,0 +1,36 @@
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (1).jpg 208,178,816,841,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (10).jpg 381,23,606,246,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (11).jpg 159,6,224,64,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (12).jpg 406,118,808,502,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (2).jpg 600,24,1315,624,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (3).jpg 190,20,241,72,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (4).jpg 57,3,167,103,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (5).jpg 232,2,605,388,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (6).jpg 241,72,396,221,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (7).jpg 123,19,239,141,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (8).jpg 166,15,489,331,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/gato_test (9).jpg 156,188,334,335,0 316,14,524,228,0 497,177,661,340,0 667,129,829,297,0
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (1).jpg 517,34,3958,3262,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (10).jpg 192,92,739,367,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (11).jpg 7,61,152,189,1 166,82,201,117,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (12).jpg 48,6,198,167,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (2).jpg 25,0,279,158,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (3).jpg 519,99,872,468,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (4).jpg 37,3,212,143,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (5).jpg 25,6,254,157,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (6).jpg 74,53,574,391,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (7).jpg 168,68,955,724,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (8).jpg 276,248,903,625,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/vaca_test (9).jpg 63,18,236,151,1
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (49).jpg 46,9,205,167,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (50).jpg 279,92,1029,620,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (51).jpg 225,5,838,658,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (52).jpg 48,16,295,136,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (53).jpg 105,6,532,284,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (54).jpg 225,243,1482,1224,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (55).jpg 110,19,227,168,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (56).jpg 139,36,191,153,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (57).jpg 127,61,226,162,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (58).jpg 53,2,205,223,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (59).jpg 112,33,216,149,2
+C:\Users\santi\OneDrive - Universidad Pedagogica Nacional\El_bosque\tercer_semestre\proyecto_deep_1/datasets/test/zorro (60).jpg 183,220,787,777,2
